@@ -23,13 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{0B12D378-B857-4D5E-8408-D5008C2F92A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructor\Constructors.csproj", "{B531A324-6B04-44C0-8803-892D277068E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructor\Constructors.csproj", "{B531A324-6B04-44C0-8803-892D277068E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionaryHw", "MyDictionaryHw\MyDictionaryHw.csproj", "{C6F05CCB-D04D-41E4-BC87-5F8EB9872896}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDictionaryHw", "MyDictionaryHw\MyDictionaryHw.csproj", "{C6F05CCB-D04D-41E4-BC87-5F8EB9872896}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{B53A7E77-45AF-4007-AA47-A8CE9FD9D8FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{B53A7E77-45AF-4007-AA47-A8CE9FD9D8FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{C7CC689A-93D7-4B6A-9F85-DDEC0290373F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{C7CC689A-93D7-4B6A-9F85-DDEC0290373F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckerBoard", "CheckerBoard\CheckerBoard\CheckerBoard.csproj", "{ACAD7010-F201-49E7-8671-FAEE9568C295}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{C7CC689A-93D7-4B6A-9F85-DDEC0290373F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7CC689A-93D7-4B6A-9F85-DDEC0290373F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7CC689A-93D7-4B6A-9F85-DDEC0290373F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACAD7010-F201-49E7-8671-FAEE9568C295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAD7010-F201-49E7-8671-FAEE9568C295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAD7010-F201-49E7-8671-FAEE9568C295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAD7010-F201-49E7-8671-FAEE9568C295}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

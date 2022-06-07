@@ -10,7 +10,7 @@ namespace OOP2
     {
         public int Id { get; set; }
        
-        public int SirketAdi { get; set; }
+        public string SirketAdi { get; set; }
         public string VergiNo { get; set; }
     }
 }

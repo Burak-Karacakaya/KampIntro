@@ -50,7 +50,21 @@ namespace DegerVeReferansTipler
 
 
 
+
+
+        static void Main(string[] args)
+        {
+                MyMethod();
+                MyMethod();
+                MyMethod();
+
         }
+        static void MyMethod()
+            {
+                Console.WriteLine("Kendi methodumu oluşturuyorum.");
+            }
+
+        
     }
 
     

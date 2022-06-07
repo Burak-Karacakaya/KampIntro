@@ -1,4 +1,5 @@
 ﻿using System;
+using VisioForge.Libs.MediaFoundation.OPM;
 
 namespace KampIntro
 {
@@ -8,12 +9,15 @@ namespace KampIntro
         {
             //type safety - tip güvenliği
             //Do not repeat yourself
-            string kategoriEtiketi = "Kategoriler"; //kategoriEtiketi = Değer tutucu, alias, etiket
+            string kategoriEtiketi = "Kategoriler"; //kategoriEtiketi = Değer tutucu,etiket
             int ogrenciSayısı = 3200;
             double notOrtalaması = 2.55;
             bool sistemeGirisYapmisMi = true;
             double dolarDun = 7.35;
             double dolarBugun = 7.45;
+            string nameOfStudents = "burak";
+            char nameFirstCharacter = 'B';
+
 
             if (dolarDun>dolarBugun)
             {
@@ -47,7 +51,9 @@ namespace KampIntro
 
 
 
-        Console.WriteLine(kategoriEtiketi);
+        //Console.WriteLine(kategoriEtiketi);
+            Console.WriteLine(nameOfStudents);
+            Console.WriteLine(dolarBugun);
 
 
 

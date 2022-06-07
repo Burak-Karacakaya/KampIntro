@@ -15,8 +15,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{28834695-A960-400B-9AD8-13C0D11C4A84}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{80B5DD5D-A105-4762-A02A-508D6682EF7C}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{1D359404-9218-4CB5-A02E-4531D0602063}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Collections", "Collections\Collections.csproj", "{88D86C03-13A9-44C7-8961-F498D6B554A5}"
@@ -32,6 +30,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{C7CC689A-93D7-4B6A-9F85-DDEC0290373F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckerBoard", "CheckerBoard\CheckerBoard\CheckerBoard.csproj", "{ACAD7010-F201-49E7-8671-FAEE9568C295}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDemoAgain", "ClassDemoAgain\ClassDemoAgain.csproj", "{870FCEE1-F18A-46AC-8BDB-C796A6308CA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,10 +63,6 @@ Global
 		{28834695-A960-400B-9AD8-13C0D11C4A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28834695-A960-400B-9AD8-13C0D11C4A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28834695-A960-400B-9AD8-13C0D11C4A84}.Release|Any CPU.Build.0 = Release|Any CPU
-		{80B5DD5D-A105-4762-A02A-508D6682EF7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80B5DD5D-A105-4762-A02A-508D6682EF7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80B5DD5D-A105-4762-A02A-508D6682EF7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80B5DD5D-A105-4762-A02A-508D6682EF7C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1D359404-9218-4CB5-A02E-4531D0602063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1D359404-9218-4CB5-A02E-4531D0602063}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D359404-9218-4CB5-A02E-4531D0602063}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -99,6 +95,10 @@ Global
 		{ACAD7010-F201-49E7-8671-FAEE9568C295}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACAD7010-F201-49E7-8671-FAEE9568C295}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACAD7010-F201-49E7-8671-FAEE9568C295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870FCEE1-F18A-46AC-8BDB-C796A6308CA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870FCEE1-F18A-46AC-8BDB-C796A6308CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870FCEE1-F18A-46AC-8BDB-C796A6308CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870FCEE1-F18A-46AC-8BDB-C796A6308CA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

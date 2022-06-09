@@ -4,17 +4,18 @@ namespace MyDictionaryHw
 {
     internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             MyDictionary<string, int> myDictionary = new MyDictionary<string, int>();
 
-            myDictionary.Add("burak", 31);
-            myDictionary.Add("berkay", 24);
+            myDictionary.Add("Burak", 31);
+            myDictionary.Add("Berkay", 24);
 
             for (int i = 0; i < myDictionary.Values.Length; i++)
             {
-                Console.WriteLine("Key: {0}, Value: {1}", myDictionary.Key[i], myDictionary.Values[i]);
+                Console.WriteLine("Name : {0}, Age : {1}", myDictionary.Key[i], myDictionary.Values[i]);
             }
+            
         }
     }
 }

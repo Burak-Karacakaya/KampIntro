@@ -23,7 +23,7 @@ namespace MyDictionaryHw
             TValue[] tempArrayValue = values;
 
             keys = new TKey[keys.Length + 1];
-            values = new TValue[this.values.Length + 1];
+            values = new TValue[values.Length + 1];
 
             for (int i = 0; i < tempArrayKey.Length; i++)
             {
